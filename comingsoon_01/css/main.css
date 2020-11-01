@@ -44,8 +44,10 @@ Primary use:
 }
 
 .logo {
-  width: 18rem;
-  height: 18rem;
+  width: auto;
+  height: auto;
+  min-width: 18;
+  min-height: 10;
 }
 
 .h3 {
